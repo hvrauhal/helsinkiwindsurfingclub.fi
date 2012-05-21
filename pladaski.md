@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Helsinki Windsurfing Club - Historiaa
+title: HWC - Historiaa
 ---
 Historiaa
 =========

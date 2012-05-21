@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Helsinki Windsurfing Club - Ranta
+title: HWC - Ranta
 ---
         
 Tuuliolosuhteet

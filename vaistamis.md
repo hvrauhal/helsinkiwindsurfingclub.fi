@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Helsinki Windsurfing Club - Väistämissäännöt
+title: HWC - Väistämissäännöt
 ---
 
 Väistämissäännöt

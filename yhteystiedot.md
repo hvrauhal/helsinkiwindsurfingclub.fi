@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Helsinki Windsurfing Club - Yhteystiedot
+title: HWC - Yhteystiedot
 ---
 
 Yhteystiedot
