@@ -10,5 +10,5 @@ Kotirantamme Helsingin Lauttasaaren eteläkärjessä on ollut monen surfaajan su
 
 Seuran kotiranta sijaitsee Lauttasaaren eteläkärjessä, Särkiniemen puiston Länsilahdella.
 
-Jos saavut paikalle autolla, aja Särkiniementien päässä sijaitsevalle  parkkipaikalle, ja jätä auto sinne parkkiin!
+Jos saavut paikalle autolla, aja Särkiniementien päässä sijaitsevalle  [parkkipaikalle](ranta.html), ja jätä auto sinne parkkiin!
 
