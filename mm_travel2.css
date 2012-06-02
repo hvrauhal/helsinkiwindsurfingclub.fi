@@ -80,6 +80,13 @@ a:hover {
 	
 /* Class Styles */
 	
+.post_date {
+    position: relative;
+    left: 0px;
+    top: -8px;
+    font-style: italic;
+}
+
 p, .bodyText {
 	font:11px Verdana, Arial, Helvetica, sans-serif;
 	color:#003366;

@@ -5,8 +5,8 @@ title: Helsinki Windsurfing Club
 
 
 {% for post in site.posts %}
-{{ post.title }}
-----------------
+<h2 id='{{ post.title }}'>{{ post.title }}</h2>
+<div class="post_date">{{ post.date | date: "%d.%m.%Y" }}</div>
 
 {{ post.content }}
 {% endfor %}
