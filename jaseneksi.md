@@ -2,12 +2,26 @@
 layout: default
 title: HWC - Jäseneksi
 ---
-Jäseneksi liittyminen ja lautapaikan vuokraus
+
+Jäsenyys
 =============================================
 
-Voit liittyä seuramme jäseneksi parhaiten ottamalla [yhteyttä hallitukseen](yhteystiedot.html) ja tapaamalla meitä [rannalla](ranta.html) kun tuulee.
+Seura tarjoaa jäsenilleen ensisijaisesti lautapaikkoja ja surffiseuraa.
 
-Lautapaikkoja vapautuu ajan mittaan ja niitä jaetaan sitä mukaa uusille jäsenille.
+Tällä hetkellä emme järjestä koulutusta emmekä alkeiskursseja, eikä meillä ole vuokravälineitä joita jäsenet voisivat
+käyttää omatoimiseen harjoitteluun.
+
+Pyrimme järjestämään kesän aikana seurailtoja joissa pääsee kokeilemaan purjelautailua ilman omaa kalustoa, tapaamaan
+seuran jäseniä ja syömään grillieväitä.
 
 
+Jäseneksi liittyminen
+---------------------
 
+Voit liittyä seuramme jäseneksi lähettämällä yhteystietosi [sähköpostitse](yhteystiedot.html#seuran_shkpostiosoite)
+niin saat paluupostissa maksutiedot jäsen- ja liittymismaksua varten.
+
+Jos olet kiinnostunut lautapaikasta, laita myös tiedot minkälaisia välineitä aiot paikalla säilyttää niin pyrimme
+järjestämään konttipaikan.
+
+Parhaiten seuran toimintaan pääsee mukaan tapaamalla meitä rannalla kun tuulee.
