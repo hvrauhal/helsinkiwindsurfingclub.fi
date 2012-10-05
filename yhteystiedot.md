@@ -10,8 +10,8 @@ Hallitus vuonna 2012
 --------------------
 
 Jani Holopainen, puheenjohtaja  
+Heikki Rauhala, varapuheenjohtaja  
 Sampsa Hämäläinen, rantavahti  
-Heikki Rauhala, sihteeri  
 Timo Riski
 
 
