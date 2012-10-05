@@ -17,7 +17,7 @@ Timo Riski
 
 Seura facebookissa
 ------------------
-[Helsinki Windsurfing Club ry](https://www.facebook.com/groups/134115773289544/)
+[Helsinki Windsurfing Club ry](https://www.facebook.com/groups/helsinkiwindsurfingclub/)
 
 Seuran sähköpostiosoite
 -----------------------
