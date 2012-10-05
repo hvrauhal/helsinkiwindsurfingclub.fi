@@ -64,6 +64,10 @@ a:hover {
 	
 /* Class Styles */
 	
+.content {
+	padding: 20px;
+}
+
 .post_date {
     position: relative;
     left: 0px;
