@@ -11,7 +11,7 @@ Pikkujoulut järjestetään 11.12. myöhemmin päätettävässä ravintolassa.
 
 Jäsenmaksua ja lautapaikkavuokraa päätettiin molempia nostaa 5€:lla seuraavaksi kaudeksi. Maksujen nostolla pystymme kattamaan ensi kauden kulut, mukaanlukien konttien maalauksen keväällä.
 
-Syyskesällä 2013 pohdittiin Saarenmaan matkan järjestämistä. Ideana, että vuokrattaisiin majatalo ja surffattaisiin kelien mukaan.
+Pohdittiin Saarenmaan matkan järjestämistä syyskesällä 2013. Ideana, että vuokrattaisiin majatalo ja surffattaisiin kelien mukaan.
 
 Muistakaa käyttäytyä Särkiniemessä muita asukkaita ja ulkoilijoita kunnioittaen, jotta yhteiselo jatkuu hyvin tulevinakin vuosina. Pysäköinnistä on tullut kuluneena kesänä huomautuksia. Auto kannattaa jättää ulkoilualueen ulkopuolella olevalle [parkkipaikalle](/ranta.html) aina kun mahdollista. Jos kuitenkin ajat konteille asti, pysäköi siten, että muut niemessä kävijät pääsevät kulkemaan esteettä.
 
