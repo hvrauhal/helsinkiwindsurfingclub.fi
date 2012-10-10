@@ -6,13 +6,14 @@ title: HWC - Yhteystiedot
 Yhteystiedot
 ============
 
-Hallitus vuonna 2012
+Hallitus vuonna 2013
 --------------------
 
 Jani Holopainen, puheenjohtaja  
 Heikki Rauhala, varapuheenjohtaja  
 Sampsa Hämäläinen, rantavahti  
 Timo Riski
+Leena Miah
 
 
 Seura facebookissa
