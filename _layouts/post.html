@@ -20,6 +20,32 @@
 </script>
 </head>
 <body>
+<div class="navigation">
+<ul>
+<li><a href="/index.html">ajankohtaista</a>
+</li>
+<li><a href="/seura.html">seura</a>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>
+</div>
+<div id="page-navigation">
+<div class="clear">&nbsp;</div>
+<div class="left">
+{% if page.previous.url %}
+<a href="{{page.previous.url}}" title="{{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+{% endif %}
+</div>
+<div class="right">
+{% if page.next.url %}
+<a href="{{page.next.url}}" title="{{page.next.title}}">{{page.next.title}} &raquo; </a>
+{% endif %}
+</div>
+<div class="clear">&nbsp;</div>
+</div>
 <div class="content">
 <h1>{{ page.title }}</h1>
 <div class="post_date">{{ page.date | date: "%-d.%-m.%Y" }}</div>
