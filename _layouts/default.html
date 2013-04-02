@@ -24,107 +24,30 @@
     </script>
 </head>
 <body>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr bgcolor="#3366CC">
-    <td colspan="3" rowspan="2"><img src="otsikko.jpg" alt="Header image" width="260" border="0" /></td>
-    <td height="63" colspan="3" id="logo" valign="bottom" align="center">helsinki windsurfing club ry</td>
-    <td width="526">&nbsp;</td>
-  </tr>
-
-  <tr bgcolor="#3366CC">
-    <td height="64" colspan="3" id="tagline" valign="top" align="center">since 1973</td>
-	<td width="526">&nbsp;</td>
-  </tr>
-
-  <tr class="separator">
-    <td colspan="7"></td>
-  </tr>
-
- <tr>
-    <td width="165" height="987" valign="top" bgcolor="#E6F3FF">
-	<table border="0" cellspacing="0" cellpadding="0" width="165" id="navigation">
-        <tr>
-          <td width="165">&nbsp;<br />
-		 &nbsp;<br /></td>
-        </tr>
-        <tr>
-          <td width="165"><a href="index.html" class="navText">ajankohtaista</a></td>
-        </tr>
-        <tr>
-          <td width="165"><a href="seura.html" class="navText">seura</a></td>
-        </tr>
-        <tr>
-          <td width="165"><a href="ranta.html" class="navText">ranta</a></td>
-        </tr>
-        <tr>
-          <td width="165"><a href="yhteystiedot.html" class="navText">yhteystiedot</a></td>
-        </tr>
-        <tr>
-          <td width="165"><a href="jaseneksi.html" class="navText">jäseneksi</a></td>
-        </tr>
-        <tr>
-          <td width="165"><a href="saannot.html" class="navText">säännöt</a></td>
-        </tr>
-        <tr>
-          <td width="165"><a href="english.html" class="navText">in english</a></td>
-        </tr>
-        <tr>
-            <td width="165"><a href="https://www.facebook.com/groups/helsinkiwindsurfingclub/" class="navText"><b>facebook</b>-ryhmä</a></td>
-        </tr>
-        <tr>
-            <td width="165"><a href="atom.xml" class="navText"><img src="atom.png" width="16px" height="16px"> atom-feed</a></td>
-        </tr>
-      </table>
- 	<br />
-  	&nbsp;<br />
-  	&nbsp;<br />
-  	&nbsp;<br /> 	</td>
-    <td width="50"></td>
-     <td colspan="2" valign="top">
-         <table border="0" cellspacing="0" cellpadding="0" width="505">
-             <tr>
-                 <td class="content">
-                     {{ content }}
-                 </td>
-             </tr>
-
-         </table>
-     </td>
-    <td width="54"><img src="/img/mm_spacer.gif" alt="" width="50" height="1" border="0" /></td>
-        <td width="205" valign="top"><br />
-		&nbsp;<br />
-            <table border="0" cellspacing="0" cellpadding="0" width="190">
-                <tr>
-                    <td colspan="3" class="subHeader" align="center">extrat</td>
-                </tr>
-
-                <tr>
-                    <td width="40"><img src="/img/mm_spacer.gif" alt="" width="40" height="1" border="0" /></td>
-                    <td width="110" id="sidebar" class="smallText"><br />
-                        <p><img src="kyltti.jpg" alt="Image 1" width="100" vspace="6" border="0" /></p>
-                        <p>Jokasurfaajan väistämissäännöt<br />
-                            <a href="vaistamis.html">Lue &gt;</a></p>
-                        <p>Poimintoja vanhoista Pladaskeista.<br />
-                            <a href="pladaski.html">Lue &gt;</a></p>
-                        <p>Se alkuper&auml;inen resepti.<br />
-                            <a href="ateria.html">Lue &gt;</a></p>
-                        <br />
-                        &nbsp;<br />
-                        &nbsp;<br />			</td>
-                    <td width="40">&nbsp;</td>
-                </tr>
-            </table>	</td>
-	<td width="526">&nbsp;</td>
-  </tr>
-  <tr>
-    <td width="165">&nbsp;</td>
-    <td width="50">&nbsp;</td>
-    <td width="61">&nbsp;</td>
-    <td width="255">&nbsp;</td>
-    <td width="54">&nbsp;</td>
-    <td width="205">&nbsp;</td>
-	<td width="526">&nbsp;</td>
-  </tr>
-</table>
+<header>Helsinki Windsurfing Club ry
+    <div class="since">Since 1973</div>
+</header>
+<ul class="navi">
+    <li><a href="index.html">ajankohtaista</a></li>
+    <li><a href="seura.html">seura</a></li>
+    <li><a href="ranta.html">ranta</a></li>
+    <li><a href="yhteystiedot.html">yhteystiedot</a></li>
+    <li><a href="jaseneksi.html">jäseneksi</a></li>
+    <li><a href="saannot.html">säännöt</a></li>
+    <li><a href="english.html">in english</a></li>
+    <li><a href="https://www.facebook.com/groups/helsinkiwindsurfingclub/"><b>facebook</b>-ryhmä</a></li>
+    <li><a href="atom.xml"><img src="atom.png" width="16px" height="16px">atom-feed</a>
+    </li>
+</ul>
+<div class="content">
+    {{ content }}
+</div>
+<div class="extras"><img src="kyltti.jpg" alt="Surffikyltti" width="100"/>
+    <ul>
+        <li><a href="vaistamis.html">Jokasurfaajan väistämissäännöt</a></li>
+        <li><a href="pladaski.html">Poimintoja vanhoista Pladaskeista</a></li>
+        <li><a href="ateria.html">Se alkuperäinen resepti</a></li>
+    </ul>
+</div>
 </body>
 </html>
