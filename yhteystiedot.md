@@ -12,9 +12,8 @@ Hallitus vuonna 2013
 Jani Holopainen, puheenjohtaja  
 Heikki Rauhala, varapuheenjohtaja  
 Sampsa Hämäläinen, rantavahti  
-Timo Riski
-Leena Miah
-
+Timo Riski  
+Leena Miah  
 
 Seura facebookissa
 ------------------
@@ -25,4 +24,4 @@ Seuran sähköpostiosoite
 
 > hwc at helsinkiwindsurfingclub.fi
 
-Jäsenten yhteystietojen muutokset ilmoitetaan seuran sähköpostiosoitteeseen.
+Ilmoita yhteystietojesi muutokset sähköpostitse!
