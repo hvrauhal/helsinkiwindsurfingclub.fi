@@ -6,7 +6,7 @@ title: HWC - Ateria
 HWC Meal - Original Formula
 ===========================
 
-Puolikas annos yhdelle surfipummille:
+Puolikas annos yhdelle surffipummille:
 
 * 2 viipaletta alennuspaahtoleipää
 * 1 B-luokan slörtsi eli makkara
