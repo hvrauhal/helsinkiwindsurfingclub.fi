@@ -14,16 +14,19 @@ body {
 td {
 	color:#003366;
 	}
-	
-a {
-	color: #FF6600;
-	}
-	
-a:hover {
-	color: #3366CC;
-	}
 
-/* ID Styles */
+a {
+  color: #FF6600;
+  &:hover {
+    color: #3366CC;
+  }
+}
+
+.separator {
+  height: 2px;
+  background-color: #003366;
+}
+
 
 #navigation td {
 	border-bottom: 2px solid #C0DFFD;
@@ -36,11 +39,11 @@ a:hover {
 	text-decoration: none;
 	display:block;
 	padding:8px 6px 10px 26px;
-	background: url("mm_arrow.gif") 14px 45% no-repeat;
+	background: url("/img/mm_arrow.gif") 14px 45% no-repeat;
 	}
 	
 #navigation a:hover {
-	background: #ffffff url("mm_arrow.gif") 14px 45% no-repeat;
+	background: #ffffff url("/img/mm_arrow.gif") 14px 45% no-repeat;
 	color:#FF6600;
 	}
 	

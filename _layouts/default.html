@@ -1,25 +1,29 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/html">
 <head>
-<title>{{ page.title }}</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" href="mm_travel2.css" type="text/css" />
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-<script type="text/javascript">
+    <title>{{ page.title }}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" href="/css/normalize-2.1.0.css" type="text/css"/>
+    <link rel="stylesheet" href="/css/index.css" type="text/css"/>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-35364030-1']);
-  _gaq.push(['_trackPageview']);
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-35364030-1']);
+        _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
 
-</script>
+    </script>
 </head>
-<body bgcolor="#C0DFFD">
+<body>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr bgcolor="#3366CC">
     <td colspan="3" rowspan="2"><img src="otsikko.jpg" alt="Header image" width="260" border="0" /></td>
@@ -32,12 +36,8 @@
 	<td width="526">&nbsp;</td>
   </tr>
 
-  <tr>
-    <td colspan="7" bgcolor="#003366"><img src="mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
-  </tr>
-
- <tr>
-    <td colspan="7" bgcolor="#003366"><img src="mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+  <tr class="separator">
+    <td colspan="7"></td>
   </tr>
 
  <tr>
@@ -79,18 +79,18 @@
   	&nbsp;<br />
   	&nbsp;<br />
   	&nbsp;<br /> 	</td>
-    <td width="50"><img src="mm_spacer.gif" alt="" width="50" height="1" border="0" /></td>
-    <td colspan="2" valign="top"><img src="mm_spacer.gif" alt="" width="305" height="1" border="0" /><br />
-	&nbsp;<br />
-	&nbsp;<br />
-	<table border="0" cellspacing="0" cellpadding="0" width="505"><tr><td>
-        {{ content }}
-	</td></tr>
+    <td width="50"></td>
+     <td colspan="2" valign="top">
+         <table border="0" cellspacing="0" cellpadding="0" width="505">
+             <tr>
+                 <td class="content">
+                     {{ content }}
+                 </td>
+             </tr>
 
-	</table>
-	  <br />
-  </td>
-    <td width="54"><img src="mm_spacer.gif" alt="" width="50" height="1" border="0" /></td>
+         </table>
+     </td>
+    <td width="54"><img src="/img/mm_spacer.gif" alt="" width="50" height="1" border="0" /></td>
         <td width="205" valign="top"><br />
 		&nbsp;<br />
             <table border="0" cellspacing="0" cellpadding="0" width="190">
@@ -99,7 +99,7 @@
                 </tr>
 
                 <tr>
-                    <td width="40"><img src="mm_spacer.gif" alt="" width="40" height="1" border="0" /></td>
+                    <td width="40"><img src="/img/mm_spacer.gif" alt="" width="40" height="1" border="0" /></td>
                     <td width="110" id="sidebar" class="smallText"><br />
                         <p><img src="kyltti.jpg" alt="Image 1" width="100" vspace="6" border="0" /></p>
                         <p>Jokasurfaajan väistämissäännöt<br />
