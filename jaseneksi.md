@@ -8,12 +8,11 @@ Jäsenyys
 
 Seura tarjoaa jäsenilleen ensisijaisesti lautapaikkoja ja surffiseuraa.
 
-Tällä hetkellä emme järjestä koulutusta emmekä alkeiskursseja, eikä meillä ole vuokravälineitä joita jäsenet voisivat
-käyttää omatoimiseen harjoitteluun. Pääkaupunkiseudulla ainakin Surfing ry järjestää alkeiskursseja.
-
 Pyrimme järjestämään kesän aikana seurailtoja joissa pääsee kokeilemaan purjelautailua ilman omaa kalustoa, tapaamaan
 seuran jäseniä ja syömään grillieväitä.
 
+Tällä hetkellä emme järjestä koulutusta emmekä alkeiskursseja, eikä meillä ole vuokravälineitä joita jäsenet voisivat
+käyttää omatoimiseen harjoitteluun. Pääkaupunkiseudulla ainakin [Surfing ry](http://www.surfing-ry.org/) ja [Twenty Knots](http://twentyknots.fi/) järjestävät surffikursseja.
 
 Jäseneksi liittyminen
 ---------------------
