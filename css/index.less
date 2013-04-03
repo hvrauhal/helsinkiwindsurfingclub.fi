@@ -43,9 +43,18 @@ ul.navi li {
 }
 
 a {
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: -1px;
+  border-bottom: 1px solid;
+  border-bottom-color: transparent;
   color: #3366CC;
+  -webkit-transition-property:border-bottom-color, color;
+  -webkit-transition-duration: 60ms;
+  -webkit-transition-timing-function: linear;
   &:hover {
-    color: #FF6600;
+    color: #2B57AD;
+    border-bottom-color: #2B57AD;
   }
 }
 
