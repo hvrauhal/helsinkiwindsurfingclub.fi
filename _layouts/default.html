@@ -1,12 +1,18 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="{% if page.language == 'en' %}en{% else %}fi{% endif %}">
 <head>
     <title>{{ page.title }}</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link rel="stylesheet" href="/css/normalize-2.1.0.css" type="text/css"/>
     <link rel="stylesheet" href="/css/index.css" type="text/css"/>
     <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="Helsinki Windsurfing Club - Ajankohtaista"/>
-    <meta name="description" content="Helsinki Windsurfing Club ry. Suomen vanhin purjelautailuseura, jonka kotiranta on Lauttasaaren Särkiniemessä"/>
+    {% if page.language == 'en' %}
+    <link rel="alternate" hreflang="fi" href="/" />
+    <meta name="description" content="Helsinki Windsurfing Club - The oldest windsurfing club in Finland, located in Särkiniemi, Lauttasaari"/>
+    {% else %}
+    <link rel="alternate" hreflang="en" href="/english.html" />
+    <meta name="description" content="Helsinki Windsurfing Club ry - Suomen vanhin purjelautailuseura, jonka kotiranta on Lauttasaaren Särkiniemessä"/>
+    {% endif %}
     <meta name="keywords" content="purjelautailu, windsurfing, helsinki, surfing, suomi"/>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script type="text/javascript">

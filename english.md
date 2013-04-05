@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Helsinki Windsurfing Club - In English
+language: en
 ---
 
 The oldest windsurfing club in Finland
