@@ -1,6 +1,7 @@
 ---
-title: Kevättalkoot pidetty 2014
+title: Kevättalkoot pidetty
 layout: post
+author: Heikki Rauhala, vpj
 ---
 
 Kiitos kaikille osallistujille!
