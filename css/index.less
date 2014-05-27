@@ -1,5 +1,26 @@
 ---
 ---
+// http://:lorschemedesigner.com/#3x51BivZew0w0
+@primary-1: #73BFFA;
+@primary-2: #709BBB;
+@primary-3: #256CA3;
+@primary-4: #96D0FD;
+@primary-5: #B2DCFD;
+
+@secondary-a-1: #78A6FA;
+@secondary-a-2: #728CBC;
+@secondary-a-3: #2753A3;
+@secondary-a-4: #9ABDFD;
+@secondary-a-5: #B4CEFD;
+
+@secondary-b-1: #6CE8FA;
+@secondary-b-2: #6CB1BB;
+@secondary-b-3: #2393A2;
+@secondary-b-4: #91EFFC;
+@secondary-b-5: #AEF3FC;
+
+
+
 
 body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
@@ -18,6 +39,39 @@ body {
   box-shadow: 0 0 20px 0 #dddddd;
   margin-bottom: 40px;
 }
+
+h1 {
+  font-size: 32px;
+  font-weight: 300;
+  color: @secondary-a-3;
+  line-height: 32px;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: bold;
+  height: 22px;
+  line-height: 22px;
+  color: @secondary-a-3;
+}
+
+a {
+  text-decoration: none;
+  padding-bottom: 1px;
+  color: @primary-3;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: transparent;
+  -webkit-transition-property: color, border-bottom-color;
+  -webkit-transition-duration: 30ms;
+  -webkit-transition-timing-function: linear;
+  &:hover {
+    color: @secondary-a-3;
+    border-bottom-color: @secondary-a-3;
+  }
+}
+
+
 header {
   h1 {
     font-size: 36px;
@@ -39,8 +93,8 @@ header {
   background-image: url('/otsikko.jpg');
   box-shadow: 0 4px 10px -5px #888888;
   white-space: nowrap;
-  background-color: #DFF4F7;
-  border-bottom: 1px solid #0D325B;
+  background-color: lighten(@primary-5, 14%);
+  border-bottom: 1px solid @secondary-a-3;
 }
 
 nav ul li {
@@ -53,36 +107,23 @@ nav ul li {
   }
 }
 
-a {
-  text-decoration: none;
-  padding-bottom: 1px;
-  border-bottom: 1px solid;
-  border-bottom-color: transparent;
-  color: #3366CC;
-  -webkit-transition-property: border-bottom-color, color;
-  -webkit-transition-duration: 60ms;
-  -webkit-transition-timing-function: linear;
-  &:hover {
-    color: #2B57AD;
-    border-bottom-color: #2B57AD;
-  }
-}
-
 .content {
   margin-left: 40px;
   width: 600px;
   padding: 20px;
   display: inline-block;
 }
+
 .post {
   margin-bottom: 3em;
   img {
     width: 100%;
-    border: 1px solid lightgray;
+    border: 1px solid @secondary-a-3;
   }
   a img:hover {
-    border: 1px solid grey;
+    border: 1px solid @secondary-a-1;
   }
+
   .post-date {
     float: right;
     font-weight: lighter;
@@ -109,19 +150,4 @@ a {
       padding-left: 0;
     }
   }
-}
-
-h1 {
-  font-size: 32px;
-  font-weight: 300;
-  color: #3366CC;
-  line-height: 32px;
-}
-
-h2 {
-  font-size: 15px;
-  font-weight: bold;
-  height: 22px;
-  line-height: 22px;
-  color: #3366CC;
 }
