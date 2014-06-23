@@ -1,0 +1,168 @@
+/* line 23, ../_sass/index.sass */
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 22px;
+  letter-spacing: 0.1em;
+  background: url("/img/noisy-texture-200x200-o1-d10-c-fefeff-t0.png") repeat;
+}
+
+/* line 31, ../_sass/index.sass */
+.wrapper {
+  max-width: 950px;
+  margin: 0 auto;
+  border: 1px solid lightgrey;
+  border-top: none;
+  -webkit-box-shadow: 0 0 20px 0 #dddddd;
+  -moz-box-shadow: 0 0 20px 0 #dddddd;
+  box-shadow: 0 0 20px 0 #dddddd;
+  margin-bottom: 40px;
+}
+
+/* line 39, ../_sass/index.sass */
+h1 {
+  font-size: 32px;
+  font-weight: 300;
+  color: #2753a3;
+  line-height: 32px;
+}
+
+/* line 45, ../_sass/index.sass */
+h2 {
+  font-size: 15px;
+  font-weight: bold;
+  height: 22px;
+  line-height: 22px;
+  color: #2753a3;
+}
+
+/* line 52, ../_sass/index.sass */
+a {
+  text-decoration: none;
+  padding-bottom: 1px;
+  color: #256ca3;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: transparent;
+  -webkit-transition-property: color, border-bottom-color;
+  -moz-transition-property: color, border-bottom-color;
+  -o-transition-property: color, border-bottom-color;
+  transition-property: color, border-bottom-color;
+  -webkit-transition-duration: 100ms;
+  -moz-transition-duration: 100ms;
+  -o-transition-duration: 100ms;
+  transition-duration: 100ms;
+  -webkit-transition-timing-function: linear;
+  -moz-transition-timing-function: linear;
+  -o-transition-timing-function: linear;
+  transition-timing-function: linear;
+}
+/* line 62, ../_sass/index.sass */
+a:hover {
+  color: #2753a3;
+  border-bottom-color: #2753a3;
+}
+
+/* line 66, ../_sass/index.sass */
+header {
+  text-align: center;
+  height: 103px;
+  background-size: 260px 123px;
+  padding-top: 20px;
+  padding-left: 260px;
+  padding-right: 60px;
+  background-repeat: no-repeat;
+  background-image: url("/otsikko.jpg");
+  -webkit-box-shadow: 0 4px 10px -5px #888888;
+  -moz-box-shadow: 0 4px 10px -5px #888888;
+  box-shadow: 0 4px 10px -5px #888888;
+  white-space: nowrap;
+  background-color: #f8fcff;
+  border-bottom: 1px solid #2753a3;
+}
+/* line 67, ../_sass/index.sass */
+header h1 {
+  font-size: 36px;
+  font-weight: 300;
+}
+/* line 70, ../_sass/index.sass */
+header h3 {
+  margin-top: -10px;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+/* line 88, ../_sass/index.sass */
+nav ul li {
+  list-style: none;
+  display: inline;
+  padding: 0 6px;
+  white-space: nowrap;
+}
+/* line 93, ../_sass/index.sass */
+nav ul li img {
+  padding-right: 6px;
+}
+/* line 95, ../_sass/index.sass */
+nav ul li a:hover {
+  border-bottom-color: #b4cefd;
+}
+/* line 97, ../_sass/index.sass */
+nav ul li a.current {
+  border-bottom-color: #256ca3;
+}
+
+/* line 100, ../_sass/index.sass */
+.content {
+  margin-left: 40px;
+  width: 600px;
+  padding: 20px;
+  display: inline-block;
+}
+
+/* line 106, ../_sass/index.sass */
+.post {
+  margin-bottom: 3em;
+}
+/* line 108, ../_sass/index.sass */
+.post img {
+  width: 100%;
+  border: 1px solid #2753a3;
+}
+/* line 111, ../_sass/index.sass */
+.post a img:hover {
+  border: 1px solid #78a6fa;
+}
+/* line 113, ../_sass/index.sass */
+.post .post-date {
+  float: right;
+  font-weight: lighter;
+  font-style: italic;
+}
+/* line 117, ../_sass/index.sass */
+.post .author {
+  font-style: italic;
+}
+
+/* line 120, ../_sass/index.sass */
+.extras {
+  vertical-align: top;
+  margin-left: 60px;
+  padding: 10px 10px 10px 10px;
+  margin-top: 60px;
+  width: 160px;
+  display: inline-block;
+  overflow: hidden;
+}
+/* line 128, ../_sass/index.sass */
+.extras ul {
+  padding-left: 0;
+}
+/* line 130, ../_sass/index.sass */
+.extras ul li {
+  list-style: none;
+  padding-bottom: 20px;
+  padding-left: 0;
+}
