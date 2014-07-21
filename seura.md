@@ -16,7 +16,14 @@ Seuran [kotiranta](ranta.html) sijaitsee Lauttasaaren eteläkärjessä, Särkini
 
 Jos saavut paikalle autolla, aja Särkiniementien päässä sijaitsevalle  parkkipaikalle, ja jätä auto sinne parkkiin!
 
-Tällä hetkellä emme järjestä koulutusta emmekä alkeiskursseja, eikä meillä ole vuokravälineitä joita jäsenet voisivat käyttää omatoimiseen harjoitteluun. Pääkaupunkiseudulla ainakin [Surfing ry](http://www.surfing-ry.org/) ja [Twenty Knots](http://twentyknots.fi/) järjestävät surffikursseja.
+Aloittaminen
+------------
+
+Tällä hetkellä emme järjestä koulutusta tai alkeiskursseja, eikä meillä ole vuokravälineitä joita jäsenet voisivat käyttää omatoimiseen harjoitteluun.
+
+Pääkaupunkiseudulla ainakin [Surfing ry](http://www.surfing-ry.org/) ja [Twenty Knots](http://twentyknots.fi/) järjestävät surffikursseja. Hangossa kursseja järjestää ja välineitä vuokraa [Surf Club Hanko](http://www.surfclubhanko.com/). [Purjelautaliitto](http://www.purjelautaliitto.fi/) ylläpitää Yyterin Surfkeskusta ja tarjoaa muutenkin tietoa purjelautailun aloittamiseksi.
+
+Apua alkuun pääsemiseksi kannattaa myös kysyä [seuran facebook-ryhmästä](https://www.facebook.com/groups/helsinkiwindsurfingclub/) johon voi liittyä myös ilman seuran jäsenyyttä. 
 
 Parhaiten seuran toimintaan pääsee mukaan tapaamalla meitä rannalla kun tuulee.
 
