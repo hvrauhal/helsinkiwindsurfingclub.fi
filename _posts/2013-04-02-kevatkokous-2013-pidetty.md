@@ -10,6 +10,7 @@ Talkoiden teemaksi valittiin konttien ulkoseinien kunnostus ja konttien ovien ry
 ja maalataan samalla vanhalla sävyllä, huonokuntoisimmasta seinäpinnasta alkaen, sen verran, kuin yhden päivän aikana ehditään.
 
 Jäsenmaksujen eräpäiväksi päätettiin 2.5. Maksut kaudelle 2013 ovat:
+
 * Jäsenmaksu 15€
 * Lautapaikkavuokra 30€
 * Liittymismaksu 20€
