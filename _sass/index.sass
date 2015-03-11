@@ -47,8 +47,7 @@ h1
 h2
   font-size: 15px
   font-weight: bold
-  height: 22px
-  line-height: 22px
+  line-height:   22px
   color: $secondary-a-3
 
 a
@@ -65,27 +64,41 @@ a
     color: $secondary-a-3
     border-bottom-color: $secondary-a-3
 
-header
-  h1
-    font-size: 36px
-    font-family: coverface_sebold, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
-  h3
-    margin-top: -10px
-    font-size: 12px
-    font-style: italic
-    font-weight: lighter
-  text-align: center
-  height: 103px
-  background-size: 260px 123px
-  padding-top: 20px
-  padding-left: 260px
-  padding-right: 60px
-  background-repeat: no-repeat
-  background-image: url("/otsikko.jpg")
-  +box-shadow(0 4px 10px -5px #888888)
-  white-space: nowrap
-  background-color: lighten($primary-5, 14%)
-  border-bottom: 1px solid $secondary-a-3
+@media (max-width: 639px)
+  header
+    h1
+      font-size: 24px
+      font-family: coverface_sebold, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
+    h3
+      font-size: 12px
+      font-style: italic
+      font-weight: lighter
+
+    text-align: center
+    border-bottom: 1px solid $secondary-a-3
+
+@media (min-width: 640px)
+  header
+    h1
+      font-size: 36px
+      font-family: coverface_sebold, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
+    h3
+      margin-top: -10px
+      font-size: 12px
+      font-style: italic
+      font-weight: lighter
+    text-align: center
+    height: 103px
+    background-size: 260px 123px
+    padding-top: 20px
+    padding-left: 260px
+    padding-right: 60px
+    background-repeat: no-repeat
+    background-image: url("/otsikko.jpg")
+    +box-shadow(0 4px 10px -5px #888888)
+    white-space: nowrap
+    background-color: lighten($primary-5, 14%)
+    border-bottom: 1px solid $secondary-a-3
 
 nav
   text-align: center
@@ -104,10 +117,13 @@ nav
         border-bottom-color: $primary-3
 
 .content
-  margin-left: 40px
-  width: 600px
+  margin-left: auto
+  margin-right: auto
+  max-width: 600px
   padding: 20px
   display: inline-block
+  iframe
+    max-width: 100% !important
 
 .post
   margin-bottom: 3em
