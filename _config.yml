@@ -1,3 +1,7 @@
+title: 'Helsinki Windsurfing Club'
+description: 'Suomen vanhin purjelautailuseura, jonka kotiranta on Lauttasaaren Särkiniemessä'
+
+
 safe:        false
 port: 4000
 baseurl:    /
