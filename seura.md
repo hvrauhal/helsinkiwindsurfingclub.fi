@@ -1,6 +1,7 @@
 ---
 layout: default
-title: HWC - Seura
+title: Seura
+description: Suomen vanhin purjelautaseura. Kotirantamme Helsingin Lauttasaaren eteläkärjessä on ollut monen surfaajan suosikki yli kolmen vuosikymmenen ajan. Seurassamme on jäseniä noin 80. Käytössämme on kolme lautojensäilytyskoppia, joissa on yhteensä 60 lautapaikkaa, sekä kaksi pukuhuonetta.
 ---
 
 Suomen vanhin purjelautaseura
