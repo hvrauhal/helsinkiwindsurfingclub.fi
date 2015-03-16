@@ -61,12 +61,14 @@ a
   &:hover
     color: $secondary-a-3
     border-bottom-color: $secondary-a-3
+header
+  h1
+    font-family: coverface_sebold, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
 
 @media (max-width: 639px)
   header
     h1
       font-size: 24px
-      font-family: coverface_sebold, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
     h3
       font-size: 12px
       font-style: italic
@@ -76,6 +78,14 @@ a
     border-bottom: 1px solid $secondary-a-3
   .content
     padding: 4px
+@media (max-width: 820px) and (min-width: 640px)
+  header
+    h1
+      font-size: 24px
+@media (min-width: 821px)
+  header
+    h1
+      font-size: 36px
 
 @media (min-width: 640px)
   .wrapper
@@ -84,26 +94,27 @@ a
   .content
     padding: 20px
   header
-    h1
-      font-size: 36px
-      font-family: coverface_sebold, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
-    h3
-      margin-top: -10px
-      font-size: 12px
-      font-style: italic
-      font-weight: lighter
-    text-align: center
     height: 103px
-    background-size: 260px 123px
-    padding-top: 20px
-    padding-left: 260px
-    padding-right: 60px
-    background-repeat: no-repeat
-    background-image: url("/otsikko.jpg")
     +box-shadow(0 4px 10px -5px #888888)
-    white-space: nowrap
     background-color: lighten($primary-5, 14%)
     border-bottom: 1px solid $secondary-a-3
+    display: flex
+    +flex-direction(row)
+    +justify-content(space-between)
+    +align-items(stretch)
+    .header-text
+      width: 100%
+      text-align: center
+      h3
+        margin-top: -10px
+        font-size: 12px
+        font-style: italic
+        font-weight: lighter
+    .header-image
+      width: 260px
+      background-size: cover
+      background-repeat: no-repeat
+      background-image: url("/otsikko.jpg")
 
 nav
   text-align: center
