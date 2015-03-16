@@ -64,11 +64,12 @@ a
 header
   background-color: lighten($primary-5, 14%)
   border-bottom: 1px solid $secondary-a-3
+  display: -webkit-flex
   display: flex
   +flex-direction(row)
-  +justify-content(space-between)
   +align-items(stretch)
   .header-text
+    min-width: 185px
     width: 100%
     text-align: center
     h3
@@ -77,12 +78,21 @@ header
       font-style: italic
       font-weight: lighter
   .header-image
-    width: 260px
     background: url("/otsikko.jpg") no-repeat center center
     +background-size(cover)
 
   h1
     font-family: coverface_sebold, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
+
+@media (max-width: 319px)
+  header
+    +flex-wrap(wrap)
+  .header-image
+    width: 100%
+    height: 100px
+@media (min-width: 320px)
+  .header-image
+    width: 200px
 
 @media (max-width: 639px)
   header
