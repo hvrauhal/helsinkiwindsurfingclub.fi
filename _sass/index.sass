@@ -62,6 +62,25 @@ a
     color: $secondary-a-3
     border-bottom-color: $secondary-a-3
 header
+  background-color: lighten($primary-5, 14%)
+  border-bottom: 1px solid $secondary-a-3
+  display: flex
+  +flex-direction(row)
+  +justify-content(space-between)
+  +align-items(stretch)
+  .header-text
+    width: 100%
+    text-align: center
+    h3
+      margin-top: -10px
+      font-size: 12px
+      font-style: italic
+      font-weight: lighter
+  .header-image
+    width: 260px
+    background: url("/otsikko.jpg") no-repeat center center
+    +background-size(cover)
+
   h1
     font-family: coverface_sebold, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
 
@@ -90,31 +109,8 @@ header
 @media (min-width: 640px)
   .wrapper
     border-top: none
-    +box-shadow(0 0 20px 0 #dddddd)
   .content
     padding: 20px
-  header
-    height: 103px
-    +box-shadow(0 4px 10px -5px #888888)
-    background-color: lighten($primary-5, 14%)
-    border-bottom: 1px solid $secondary-a-3
-    display: flex
-    +flex-direction(row)
-    +justify-content(space-between)
-    +align-items(stretch)
-    .header-text
-      width: 100%
-      text-align: center
-      h3
-        margin-top: -10px
-        font-size: 12px
-        font-style: italic
-        font-weight: lighter
-    .header-image
-      width: 260px
-      background-size: cover
-      background-repeat: no-repeat
-      background-image: url("/otsikko.jpg")
 
 nav
   text-align: center
