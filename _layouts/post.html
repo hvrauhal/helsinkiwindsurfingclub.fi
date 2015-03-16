@@ -1,9 +1,35 @@
 {% include header.html %}
 <body>
-<div class="content">
+<div class="wrapper">
+    <header>
+        <h1>Helsinki Windsurfing Club ry</h1>
+
+        <h3>Since 1973</h3>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="/index.html">ajankohtaista</a></li>
+            <li><a href="/seura.html">seura</a></li>
+            <li><a href="/ranta.html">ranta</a></li>
+            <li><a href="/yhteystiedot.html">yhteystiedot</a></li>
+            <li><a href="/saannot.html">säännöt</a></li>
+            <li><a href="/english.html">in english</a></li>
+            <li><a href="https://www.facebook.com/groups/helsinkiwindsurfingclub/"><b>facebook</b>-ryhmä</a></li>
+            <li><a href="/atom.xml"><img src="/atom.png" alt="atom feed" width="16" height="16"/></a>
+            </li>
+        </ul>
+    </nav>
+<article class="content">
 <h1>{{ page.title }}</h1>
-<div class="post_date">{{ page.date | date: "%-d.%-m.%Y" }}</div>
+<div class="date">{{ page.date | date: "%-d.%-m.%Y" }}</div>
 {{ content }}
+
+    {% if page.author %}
+    <span class="author">- {{ page.author }}</span>
+    {% endif %}
+
+</article>
+
 </div>
 </body>
 {% include footer.html %}

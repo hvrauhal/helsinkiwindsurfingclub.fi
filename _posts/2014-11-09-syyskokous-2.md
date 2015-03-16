@@ -1,6 +1,7 @@
 ---
 title: Tervetuloa syyskokoukseen 20.11.2014
 layout: post
+description: Tervetuloa sääntömääräiseen syyskokoukseen 20.11.2014 klo 18:00 ravintola Casa Mareen.
 author: Heikki Rauhala, vpj
 ---
 
