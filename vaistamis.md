@@ -9,6 +9,7 @@ Väistämissäännöt
 Vesilläliikkujille on omat sääntönsä yhteentörmäyksien välttämiseksi.
 
 Kulkuoikeusjärjestys on seuraava:
+
 1. ammattikäytössä olevat alukset
 1. purjeveneet
 1. lihasvoimalla kulkevat alukset
@@ -23,6 +24,7 @@ Kulussa olevan purjealuksen täytyy väistää:
 Lisäksi väylällä tapahtuvaa liikennettä kohtaan on muilla väistämisvelvollisuus.
 
 Purjealuksilla on omat keskinäiset väistämissääntönsä:
+
 * Jos ajat eri halssilla kuin vastaantulija, paapuurin halssilla ajava väistää.
 * Jos ajat samalla halssilla kuin vastaantulija, tuulen yläpuolella oleva väistää.
 * Saavuttava väistää.
