@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seura
+title: Jäsenyys
 description: Suomen vanhin purjelautaseura. Kotirantamme Helsingin Lauttasaaren eteläkärjessä on ollut monen surfaajan suosikki yli kolmen vuosikymmenen ajan. Seurassamme on jäseniä noin 80. Käytössämme on kolme lautojensäilytyskoppia, joissa on yhteensä 60 lautapaikkaa, sekä kaksi pukuhuonetta.
 ---
 
@@ -10,6 +10,8 @@ Suomen vanhin purjelautaseura
 Kotirantamme Helsingin Lauttasaaren eteläkärjessä on ollut monen surfaajan suosikki yli kolmen vuosikymmenen ajan. Seurassamme on jäseniä noin 80. Käytössämme on kolme lautojensäilytyskoppia, joissa on yhteensä 60 lautapaikkaa, sekä kaksi pukuhuonetta.
 
 Seura tarjoaa jäsenilleen ensisijaisesti lautapaikkoja ja surffiseuraa.
+
+Keväällä järjestämme yhdistyksen kevätkokouksen, jossa päätämme edellisen kauden tilit ja suunnittelemme kevättalkoita ja tulevaa kesää. Toukokuun aikana järjestämme kevättalkoot. Alkukeväästä myöhäiseen syksyyn surffaamme. Lokakuussa järjestämme yhdistyksen kevätkokouksen ja sen jälkeen talvella kauden päättäjäiset. Viimeiset pari vuotta olemme pelanneet rantalentopalloa talvella, mutta muutkin urheiluaiheiset tapahtumat ovat mahdollisia. 
 
 Pyrimme järjestämään kesän aikana seurailtoja joissa pääsee kokeilemaan purjelautailua ilman omaa kalustoa, tapaamaan seuran jäseniä ja syömään grillieväitä.
 
@@ -35,3 +37,11 @@ Voit liittyä seuramme jäseneksi lähettämällä yhteystietosi [sähköpostits
 niin saat paluupostissa maksutiedot jäsen- ja liittymismaksua varten.
 
 Jos olet kiinnostunut lautapaikasta, laita myös tiedot minkälaisia välineitä aiot paikalla säilyttää niin pyrimme järjestämään konttipaikan.
+
+Jäsenmaksut kaudelle 2016 ovat:
+
+* Jäsenmaksu 20€
+* Lautapaikkavuokra 30€
+* Liittymismaksu 20€
+
+Saat henkilökohtaisen viitenumerosi ja maksutiedot sähköpostitse liityttyäsi seuraan.
