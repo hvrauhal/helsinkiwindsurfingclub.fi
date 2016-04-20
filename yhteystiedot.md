@@ -6,7 +6,7 @@ title: HWC - Yhteystiedot
 Yhteystiedot
 ============
 
-Hallitus vuonna 2014
+Hallitus vuonna 2016
 --------------------
 
 Jani Holopainen, puheenjohtaja  
