@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HWC - Ranta
+title: Ranta
 ---
         
 Ranta ja tuuliolosuhteet

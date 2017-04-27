@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HWC - Ateria
+title: Ateria
 ---
 
 HWC Meal - Original Formula

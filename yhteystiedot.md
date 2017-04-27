@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HWC - Yhteystiedot
+title: Yhteystiedot
 ---
 
 Yhteystiedot

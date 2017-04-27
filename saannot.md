@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HWC - Säännöt
+title: Säännöt
 ---
 Helsinki Windsurfing Club ry:n säännöt
 ======================================

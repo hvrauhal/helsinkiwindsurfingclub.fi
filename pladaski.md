@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HWC - Historiaa
+title: Historiaa
 ---
 Historiaa
 =========
