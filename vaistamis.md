@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Väistämissäännöt
+description: Vesilläliikkujille on omat sääntönsä yhteentörmäyksien välttämiseksi
 ---
 
 Väistämissäännöt

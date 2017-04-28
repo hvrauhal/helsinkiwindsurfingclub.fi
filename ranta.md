@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ranta
+description: Kotirantaan osuvat parhaiten lounaan ja etelän väliset tuulet. Itätuulellalkin pääsee. Lähtöpaikkoja on Länsilahdella ja Melkin suuntaan.
 ---
         
 Ranta ja tuuliolosuhteet

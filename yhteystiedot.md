@@ -1,19 +1,20 @@
 ---
 layout: default
 title: Yhteystiedot
+description: Yhdistyksen hallitus ja yhteystiedot
 ---
 
 Yhteystiedot
 ============
 
-Hallitus vuonna 2016
+Hallitus vuonna 2017
 --------------------
 
 Jani Holopainen, puheenjohtaja  
 Heikki Rauhala, varapuheenjohtaja  
 Sampsa Hämäläinen, rantavahti  
 Milena Johans  
-Timo Riski  
+Eero Anttila  
 
 Seura facebookissa
 ------------------

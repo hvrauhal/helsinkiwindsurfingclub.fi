@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Säännöt
+description: Helsinki Windsurfing Club ry:n säännöt 
 ---
 Helsinki Windsurfing Club ry:n säännöt
 ======================================

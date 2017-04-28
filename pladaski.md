@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Historiaa
+description: Pladaskin ensimmäinen numero julkaistiin tiettävästi 1976, ja sitä toimitti alunperin Suomen Windsurfer Liitto. Numerosta 2/80 alkaen lehden julkaisusta  huolehti HWC 90-luvun puoliväliin asti.
 ---
 Historiaa
 =========
