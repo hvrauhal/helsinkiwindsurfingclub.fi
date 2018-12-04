@@ -7,14 +7,13 @@ description: Yhdistyksen hallitus ja yhteystiedot
 Yhteystiedot
 ============
 
-Hallitus vuonna 2017
+Hallitus vuonna 2019
 --------------------
 
-Jani Holopainen, puheenjohtaja  
-Heikki Rauhala, varapuheenjohtaja  
+Heikki Rauhala, puheenjohtaja  
+Jarmo Mäkinen, varapuheenjohtaja  
 Sampsa Hämäläinen, rantavahti  
 Milena Johans  
-Eero Anttila  
 
 Seura facebookissa
 ------------------
