@@ -5,3 +5,5 @@ _site
 helsinkiwindsurfingclub.fi.iml
 .sass-cache
 *.css
+*~
+.jekyll-cache
