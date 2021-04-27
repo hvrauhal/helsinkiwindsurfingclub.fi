@@ -38,7 +38,7 @@ niin saat paluupostissa maksutiedot jäsen- ja liittymismaksua varten.
 
 Jos olet kiinnostunut lautapaikasta, laita myös tiedot minkälaisia välineitä aiot paikalla säilyttää niin pyrimme järjestämään konttipaikan.
 
-Jäsenmaksut kaudelle 2018 ovat:
+Jäsenmaksut kaudelle 2021 ovat:
 
 * Jäsenmaksu 20€
 * Lautapaikkavuokra 30€
