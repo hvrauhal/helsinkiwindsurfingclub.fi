@@ -3,4 +3,6 @@ set -euo pipefail
 IFS=$'\n\t'
 
 bundle exec jekyll build
-rsync -avz --delete -e ssh _site/ ssh.helsinkiwindsurfingclub.fi:public_html
+echo "Sit vaan sftp:llä kopioit _site/:n sisällön osoitteeseen helsinkiwi@helsinkiwindsurfingclub.fi:public_html"
+
+# rsync -avz --delete -e ssh _site/ helsinkiwi@helsinkiwindsurfingclub.fi:public_html
