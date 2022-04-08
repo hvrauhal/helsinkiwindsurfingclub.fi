@@ -7,14 +7,14 @@ description: Yhdistyksen hallitus ja yhteystiedot
 Yhteystiedot
 ============
 
-Hallitus vuonna 2021
+Hallitus vuonna 2022
 --------------------
 
 Heikki Rauhala, puheenjohtaja  
 Jarmo Mäkinen, varapuheenjohtaja  
 Sampsa Hämäläinen, jäsen  
 Juha Haanperä, jäsen  
-Tinja Lindgren, jäsen
+Jouni Aulaskoski, jäsen
 
 Seura facebookissa
 ------------------
