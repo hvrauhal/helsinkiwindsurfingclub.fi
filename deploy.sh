@@ -3,6 +3,14 @@ set -euo pipefail
 IFS=$'\n\t'
 
 bundle exec jekyll build
-echo "Sit vaan sftp:llä kopioit _site/:n sisällön osoitteeseen helsinkiwi@helsinkiwindsurfingclub.fi:public_html"
+cat << EOF
+Deploy onnistuu kopioimalla _site/:n sisältö osoitteeseen
+helsinkiwi@helsinkiwindsurfingclub.fi:public_html scp:llä:
+
+  scp -r _site/* helsinkiwi@helsinkiwindsurfingclub.fi:public_html
+
+Kohteeseen ei saa ssh-avaimia, vaan on pakko käyttää salasanaa.
+EOF
+
 
 # rsync -avz --delete -e ssh _site/ helsinkiwi@helsinkiwindsurfingclub.fi:public_html
