@@ -1,5 +1,5 @@
 ---
-title: Kevättalkoot 20202
+title: Kevättalkoot 2022
 layout: post
 author: Heikki Rauhala, pj
 description: Tervetuloa kevättalkoisiin lauantaina 14.5.2022 klo 12
