@@ -7,7 +7,7 @@ description: Yhdistyksen hallitus ja yhteystiedot
 Yhteystiedot
 ============
 
-Hallitus vuonna 2022
+Hallitus vuonna 2023
 --------------------
 
 Heikki Rauhala, puheenjohtaja  
