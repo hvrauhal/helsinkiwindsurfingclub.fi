@@ -1,7 +1,7 @@
-@import "compass"
-@import "compass/css3"
-
-@import "coverface"
+---
+---
+@use "sass:color"
+@use "coverface"
 
 // http://colorschemedesigner.com/#3x51BivZew0w0
 $primary-1: #73bffa
@@ -55,19 +55,19 @@ a
   border-bottom-width: 1px
   border-bottom-style: solid
   border-bottom-color: transparent
-  +transition-property(color, border-bottom-color)
-  +transition-duration(100ms)
-  +transition-timing-function(linear)
+  transition-property: color, border-bottom-color
+  transition-duration: 100ms
+  transition-timing-function: linear
   &:hover
     color: $secondary-a-3
     border-bottom-color: $secondary-a-3
 header
-  background-color: lighten($primary-5, 14%)
+  background-color: color.adjust($primary-5, $lightness: 14%)
   border-bottom: 1px solid $secondary-a-3
   display: -webkit-flex
   display: flex
-  +flex-direction(row)
-  +align-items(stretch)
+  flex-direction: row
+  align-items: stretch
   .header-text
     min-width: 185px
     width: 100%
@@ -79,14 +79,14 @@ header
       font-weight: lighter
   .header-image
     background: url("/otsikko.jpg") no-repeat center center
-    +background-size(cover)
+    background-size: cover
 
   h1
     font-family: coverface_sebold, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
 
 @media (max-width: 399px)
   header
-    +flex-wrap(wrap)
+    flex-wrap: wrap
   .header-image
     width: 100%
     height: 120px

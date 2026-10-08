@@ -7,3 +7,5 @@ helsinkiwindsurfingclub.fi.iml
 *.css
 *~
 .jekyll-cache
+.bundle
+vendor/bundle

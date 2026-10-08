@@ -7,14 +7,13 @@ description: Yhdistyksen hallitus ja yhteystiedot
 Yhteystiedot
 ============
 
-Hallitus vuonna 2023
+Hallitus vuonna 2026
 --------------------
 
-Heikki Rauhala, puheenjohtaja  
-Jarmo Mäkinen, varapuheenjohtaja  
-Sampsa Hämäläinen, jäsen  
-Juha Haanperä, jäsen  
-Jouni Aulaskoski, jäsen
+Jouni Aulaskoski, puheenjohtaja
+Aleksi Immonen, varapuheenjohtaja
+Nora Kuusisto, jäsen
+Juha Haanperä, jäsen
 
 Seura facebookissa
 ------------------

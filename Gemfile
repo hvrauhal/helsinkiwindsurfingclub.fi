@@ -1,4 +1,3 @@
-source "http://rubygems.org"
-gem "jekyll"
-gem "compass"
-
+source "https://rubygems.org"
+gem "jekyll", "~> 4.4"
+gem "webrick"
