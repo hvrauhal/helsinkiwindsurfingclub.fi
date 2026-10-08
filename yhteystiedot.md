@@ -10,10 +10,10 @@ Yhteystiedot
 Hallitus vuonna 2026
 --------------------
 
-Jouni Aulaskoski, puheenjohtaja
-Aleksi Immonen, varapuheenjohtaja
-Nora Kuusisto, jäsen
-Juha Haanperä, jäsen
+Jouni Aulaskoski, puheenjohtaja  
+Aleksi Immonen, varapuheenjohtaja  
+Nora Kuusisto, jäsen  
+Juha Haanperä, jäsen  
 
 Seura facebookissa
 ------------------
